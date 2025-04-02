@@ -4,16 +4,8 @@
 
 - 🔭 Information Systems student at IFES, Espírito Santo, Brazil.
 - 👯 Looking to collaborate on **any** project where I could be interesting or helpful in some way!
-- ⚡ Fun fact: Well, besides what I've shown on my "learning tree," these were only my main abilities. I'm very curious about the technology field, so anything that shows up on my radar, I'm willing to learn and improve at!
-- 🎭 My hobbies
-  - 🎮 Gaming!
-  - 🎵 Music!
-  - 🦸 Geek culture!
-  - 🏐 Volleyball!
-  - 🧩 Rubik's cube!
-  - ♟️ Chess!
-  - 🎨 Drawing!
-  - 🍔 Hamburgers!
+- ⚡ Fun fact: I'm very curious! The field of technology is huge, and whatever appears on my radar, is another opportunity to learn and improve myself!
+- 🎭 Hobbies: gaming, music, geek culture, volleyball, Rubik's cube, chess, drawing, and hamburgers!
 
 ## 🚀 Skills
 
@@ -48,5 +40,4 @@
 
 ---
 
-💪 Keep it Strong 🔥 <br/>
-⭐️ Made by [Paulo Lopes](https://github.com/PauloYo)
+💪 Keep it Strong 🔥

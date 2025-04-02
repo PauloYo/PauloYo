@@ -1,4 +1,4 @@
-## Hi there!
+## Yo!
 
 - 🔭 I’m currently a Information Systems student at IFES on Espirito Santo, Brazil.
 - 🌱 I’m currently learning software engeneering and programming! Wich includes Back-End (such as Python, C, C#, Java, Node), Front-End (such as JavaScript, HTML/CSS, React) and Full-Stack (Typescript, Next.JS, ASP.NET).

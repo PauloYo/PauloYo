@@ -48,5 +48,5 @@
 
 ---
 
-💪 Keep it Strong 🔥
+💪 Keep it Strong 🔥 <br/>
 ⭐️ Made by [Paulo Lopes](https://github.com/PauloYo)

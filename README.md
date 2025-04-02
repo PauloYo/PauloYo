@@ -6,4 +6,4 @@
 - 📫 How to reach me:
   - Email: paulosousasancheslopes@gmail.com
 - 🎭 My hobbies: gaming, music, geek, volleyball, rubik's cube, chess, drawings and hamburgers!
-- ⚡ Fun fact: Well, besides what I've shown on my "learning tree", these were only my *main* abillities. I'm so curious about the technology field, so anything that appears on my sight I'm willing to learn and get better at it! 
+- ⚡ Fun fact: Well, besides what I've shown on my "learning tree," these were only my main abilities. I'm very curious about the technology field, so anything that shows up on my radar, I'm willing to learn and improve at!

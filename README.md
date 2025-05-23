@@ -31,8 +31,9 @@
 ![ASP.NET](https://img.shields.io/badge/-ASP.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
 
 ## 📊 GitHub Stats
-
+<!--
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PauloYo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+-->
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PauloYo&layout=compact&langs_count=7&theme=dracula"/>
 
 ## 📫 How to reach me
